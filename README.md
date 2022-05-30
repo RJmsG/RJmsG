@@ -1,10 +1,8 @@
-This account will not interact with the community.
-If it does interact with someone, that is because it I know them in real life, or they come from a platform I know and trust.
-However, you may see my creations.
+Hi, if ur not from scratch then I don't know u lol.
 
-Thank you - R. James G.
+I will reply to any questions that you have, but I only chat with people I know.
 
-
-
-
-P.S. I'm @AXEstudios from scratch!
+@AXEstudios - scratch
+@axethegreat - meower
+Micgilfrid (or)  Rivet Pertolson - youtube
+what u see right now - github
