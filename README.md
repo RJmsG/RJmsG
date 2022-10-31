@@ -1,6 +1,6 @@
 # Welcome to my github
 
-I go by a couple names, by just call me axe.
+I go by a couple names, but just call me axe.
 
 ## Projects I'm working on
 
