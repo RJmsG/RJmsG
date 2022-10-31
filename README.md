@@ -1,10 +1,9 @@
 # Welcome to my github
 
-Hi, if ur not from scratch then I don't know u lol.
+I go by a couple names, by just call me axe.
 
- - I will reply to any questions that you have, but I only chat with people I know.
- - Why are you still reading? Get a life.
+## Projects I'm working on
 
+[ACPL](https://github.com/RJmsG/ACPL)
 
-### Here, you can google my username:
-https://www.google.com 
+Currently not much that I do arounf here.
