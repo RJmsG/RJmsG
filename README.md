@@ -6,4 +6,8 @@ I go by a couple names, but just call me axe.
 
 [ACPL](https://github.com/RJmsG/ACPL)
 
-Currently not much that I do arounf here.
+
+## News
+
+ACPL is now available for you to try out!
+Get it by downloading the files in the repository.
