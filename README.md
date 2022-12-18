@@ -2,6 +2,14 @@
 
 I go by a couple names, but just call me axe.
 
+## Communication
+### Scratch
+scratch.mit.edu/users/axestudios
+### Youtube
+https://www.youtube.com/channel/UCbp0L8GwUxhokJMCa7AiDjw
+### Discord
+AXEstudios#2709
+
 ## Status
 ![AXE's status](https://github-readme-stats.vercel.app/api?username=RJmsG&show_icons=true&include_all_commits=true)
 
