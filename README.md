@@ -4,7 +4,7 @@ I go by a couple names, but just call me axe.
 
 ## Communication
 ### Scratch
-scratch.mit.edu/users/axestudios
+https://scratch.mit.edu/users/axestudios
 ### Youtube
 https://www.youtube.com/channel/UCbp0L8GwUxhokJMCa7AiDjw
 ### Discord
