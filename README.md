@@ -26,6 +26,4 @@ AXEstudios#2709
 
 ## News
 
-ACPL is now available for you to try out!
-<br>
-You can get it by downloading the files in the repository.
+ACPL just got a small update with a few changes in the way it compiles.
