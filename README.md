@@ -26,4 +26,4 @@ AXEstudios#2709
 
 ## News
 
-ACPL just got a small update with a few changes in the way it compiles.
+A **new** ACPL update is currently being developed! To see it, go to [the A23 branch](https://github.com/RJmsG/ACPL/tree/A23).
