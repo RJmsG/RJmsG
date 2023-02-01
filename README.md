@@ -26,4 +26,4 @@ AXEstudios#2709
 
 ## News
 
-A **new** ACPL update is currently being developed! To see it, go to [the A23 branch](https://github.com/RJmsG/ACPL/tree/A23).
+ACPL a23 (python version) is no longer being developed. We are porting it to C!
